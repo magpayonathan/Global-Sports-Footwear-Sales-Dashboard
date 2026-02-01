@@ -20,6 +20,7 @@ This dashboard was created to analyze global footwear sales and identify key per
 
 # 🖼️ Dashboard Preview
 ![Dashboard Page 1](Footwear%20Sales_Tableau%20Dashboard.png)
+You can explore the dashboard using Tableau Public. Here is the [Dashboard](https://public.tableau.com/views/FootwearSalesDashboard_17696772799870/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 
