@@ -17,8 +17,10 @@ This dashboard was created to analyze global footwear sales and identify key per
 - Which product gender has the highest market share?
 - Do customers prefer purchasing online or in retail stores?
 
+
 # 🖼️ Dashboard Preview
-![Dashboard Page 1](Footwear Sales_Tableau Dashboard.png)
+![Dashboard Page 1](Footwear%20Sales_Tableau%20Dashboard.png)
+
 
 
 # 📊 Key Insights
