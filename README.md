@@ -18,6 +18,7 @@ This dashboard was created to analyze global footwear sales and identify key per
 - Do customers prefer purchasing online or in retail stores?
 
 # 🖼️ Dashboard Preview
+![Dashboard Page 1](Footwear Sales_Tableau Dashboard.png)
 
 
 # 📊 Key Insights
