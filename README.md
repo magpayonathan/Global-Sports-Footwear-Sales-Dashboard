@@ -19,6 +19,7 @@ This dashboard was created to analyze global footwear sales and identify key per
 
 # 🖼️ Dashboard Preview
 
+
 # 📊 Key Insights
 - **2019** recorded the highest revenue at **$524K**, while **2021** had the lowest revenue at **$465K**.
 - **ASICS** generated the highest cumulative revenue from 2018 to 2026 at **$772K**, while **Adidas** recorded the lowest at **$727K**.
